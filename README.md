@@ -71,7 +71,7 @@ python manage.py runserver
 Configure environment variables in `.env` to connect to PostgreSQL:
 ```env
 DATABASE_ENGINE=postgresql
-DATABASE_NAME=vibe_ecommerce_db
+DATABASE_NAME=ecommerce_db
 DATABASE_USER=postgres
 DATABASE_PASSWORD=postgres
 DATABASE_HOST=localhost
