@@ -1,4 +1,4 @@
-# Full-Stack E-Commerce Platform (Vibe Square)
+# Full-Stack E-Commerce Platform
 
 A production-ready full-stack e-commerce platform built with a decoupled architecture (React.js frontend, Django REST Framework backend, and PostgreSQL relational database). Features a classic "Square" geometric design system, role-based access control (User, Admin, SuperAdmin), a SuperAdmin product inspection state machine, server-side search/filter/sort/pagination, and atomic order stock deduction.
 
